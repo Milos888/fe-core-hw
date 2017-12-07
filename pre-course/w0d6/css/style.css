@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+html, body {
+	margin: 0 0 0 0;
+  font-family:"PT Sans Narrow";
+  background: #b7b9b8;
+	
+}
+
+.wrapper{
+    
+
+   width:220px;
+   margin: 0 auto;
+   background: #ffffff; 
+  box-shadow: 3px solid #333;
+  border: 4px solid  #f2f5f2;
+}
+img{
+  width:100%;
+}
+h5{
+font-size:14px;
+  margin: 5px 0 10px 10px;
+  font-weight: 600;
+
+}
+h6{
+  font-size:14px;
+  text-transform: uppercase;
+  margin:-10px 0 5px 10px;
+}
+.down{
+  width:85%;
+   margin: 0 auto;
+}
+p{
+  display: inline-block;
+  background: #b7b9b8;
+  font-size: 12px;
+  text-align:center;
+  font-weight: 600;
+ 
+
+}
+.price{
+  width: 100px;
+  padding: 5px ;
+  margin-right: -4px;
+ 
+ 
+}
+.buy{
+ 
+  width: 67px;
+  padding: 5px ;
+  background: #050505;
+  }
+  a{
+    color: #ffffff;
+    text-decoration: none;
+  }
